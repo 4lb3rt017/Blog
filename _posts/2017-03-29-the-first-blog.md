@@ -5,7 +5,7 @@ title:  GitHub+Jekyll个人Blog搭建完成
 #时间配置
 date:   2017-03-29 21:38:00 +0800
 #大类配置
-categories: Life
+categories: Blog相关
 ---
 
 所以这就是第一个Blog了。<br>
