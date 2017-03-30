@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>No pain, no gain!</description>
+    <link>http://localhost:4000/MyBlog/</link>
+    <atom:link href="http://localhost:4000/MyBlog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 29 Mar 2017 21:47:09 +0800</pubDate>
+    <lastBuildDate>Wed, 29 Mar 2017 21:47:09 +0800</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>GitHub+Jekyll个人Blog搭建完成</title>
+        <description>&lt;p&gt;所以这就是第一个Blog了。&lt;br /&gt;
+受学校某dalao启发，昨天开始着手搭建这个。&lt;br /&gt;
+以前一直有这样的想法，一直没付诸行动，也怪我是个重度拖延症患者吧。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Mar 2017 21:38:00 +0800</pubDate>
+        <link>http://localhost:4000/MyBlog/2017/03/29/the-first-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/MyBlog/2017/03/29/the-first-blog/</guid>
+        
+        
+        <category>Life</category>
+        
+      </item>
+    
+  </channel>
+</rss>

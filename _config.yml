@@ -1,0 +1,41 @@
+# Site settings
+name: Legi0n
+email: albert_march1_2016@Outlook.com
+author: Albert Suen
+url: http://4lb3rt.xyz
+resume_site: http://www.4lb3rt.xyz/Resume.io/
+github: https://github.com/4lb3rt017/
+baseurl: "/Blog"
+description: No pain, no gain!
+meta_description: 4lb3rt`s Blog
+motto: Legi0n
+banner: Stay hungry, stay foolish.
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: 4lb3rt017
+highlighter: rouge
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
+FB:
+  comments :
+    provider : duoshuo
+    duoshuo:
+        short_name : Albert
+    disqus :
+        short_name : 4lb3rt
+    # facebook :
+    #   appid : 123
+    #   num_posts: 5
+    #   width: 580
+    #   colorscheme: light
+
+gems: [jekyll-paginate]
